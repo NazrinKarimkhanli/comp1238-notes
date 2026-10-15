@@ -10,4 +10,5 @@ Important Dates
 
 Course Notes
 
-Read my COMP1238 notes
+
+[Read my COMP1238 notes](comp1238.md)
